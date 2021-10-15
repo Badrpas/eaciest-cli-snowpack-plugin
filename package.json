@@ -1,0 +1,12 @@
+{
+  "name": "eaciest-cli-snowpack-plugin",
+  "version": "1.0.0",
+  "main": "eaciest-cli-snowpack-plugin.js",
+  "license": "MIT",
+  "dependencies": {
+    "minimatch": "^3.0.4"
+  },
+  "peerDependencies": {
+    "eaciest-cli": "^0.5.4"
+  }
+}
